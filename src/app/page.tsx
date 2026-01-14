@@ -450,7 +450,7 @@ export default function Home() {
           id="contact"
           className="py-16 md:py-24 bg-white border-t border-neutral-100 relative overflow-hidden"
         >
-          <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-gradient-to-r from-red-50 to-white opacity-50 blur-3xl -z-10"></div>
+          <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-gradient-to-r from-red-50 to-white opacity-50"></div>
           <motion.div className="max-w-4xl mx-auto px-6 text-center" {...fadeIn}>
             <h2 className="text-4xl md:text-5xl font-semibold text-black tracking-tight mb-6">
               Ready to Launch Your
